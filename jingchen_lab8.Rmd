@@ -1,0 +1,8 @@
+---
+title: "jingchen_lab8"
+author: "Jing Chen"
+date: "April 9, 2017"
+output: html_document
+---
+
+This is the assignment for STAT133 Lab 8 by Jing Chen. 
